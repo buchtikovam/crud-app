@@ -1,0 +1,34 @@
+{
+  "animals": [
+    {
+      "id": "2",
+      "name": "Elephant",
+      "type": "mammal",
+      "diet": "herbivore"
+    },
+    {
+      "id": "3",
+      "name": "Dolphin",
+      "type": "mammal",
+      "diet": "carnivore"
+    },
+    {
+      "id": "4",
+      "name": "Bald Eagle",
+      "type": "bird",
+      "diet": "carnivore"
+    },
+    {
+      "id": "5",
+      "name": "Snake",
+      "type": "reptile",
+      "diet": "carnivore"
+    },
+    {
+      "id": "6e70",
+      "name": "Super Dolphin",
+      "type": "mammal",
+      "diet": "carnivore"
+    }
+  ]
+}
